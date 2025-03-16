@@ -1,0 +1,31 @@
+[ {
+  "id" : 0,
+  "brand" : "Jaguar",
+  "model" : "X-Type",
+  "year" : 2009
+}, {
+  "id" : 1,
+  "brand" : "Jaguar",
+  "model" : "E-Type",
+  "year" : 1975
+}, {
+  "id" : 2,
+  "brand" : "Jaguar",
+  "model" : "F-Type",
+  "year" : 2013
+}, {
+  "id" : 3,
+  "brand" : "Jaguar",
+  "model" : "I-Pace",
+  "year" : 2018
+}, {
+  "id" : 4,
+  "brand" : "Jaguar",
+  "model" : "S-Type",
+  "year" : 2008
+}, {
+  "id" : 5,
+  "brand" : "Jaguar",
+  "model" : "X-Type",
+  "year" : 2014
+} ]

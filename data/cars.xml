@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+    <Car id="0">
+        <brand>Mercedes-Benz</brand>
+        <model>A-Class</model>
+        <year>2023</year>
+    </Car>
+    <Car id="1">
+        <brand>Mercedes-Benz</brand>
+        <model>C-Class</model>
+        <year>2022</year>
+    </Car>
+    <Car id="2">
+        <brand>Mercedes-Benz</brand>
+        <model>E-Class</model>
+        <year>2021</year>
+    </Car>
+    <Car id="3">
+        <brand>Mercedes-Benz</brand>
+        <model>S-Class</model>
+        <year>2020</year>
+    </Car>
+    <Car id="4">
+        <brand>Mercedes-Benz</brand>
+        <model>GLC</model>
+        <year>2022</year>
+    </Car>
+    <Car id="5">
+        <brand>Mercedes-Benz</brand>
+        <model>G-Class</model>
+        <year>2023</year>
+    </Car>
+    <Car id="6">
+        <brand>Mercedes-Benz</brand>
+        <model>EQS</model>
+        <year>2024</year>
+    </Car>
+    <Car id="7">
+        <brand>Mercedes-Benz</brand>
+        <model>S-Class</model>
+        <year>2023</year>
+    </Car>
+</cars>

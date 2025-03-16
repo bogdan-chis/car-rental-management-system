@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<reservations>
+    <Reservation id="1">
+        <Car>
+            <id>0</id>
+            <brand>Mercedes-Benz</brand>
+            <model>A-Class</model>
+            <year>2023</year>
+        </Car>
+        <startDate>2024-12-06</startDate>
+        <endDate>2024-12-07</endDate>
+    </Reservation>
+    <Reservation id="2">
+        <Car>
+            <id>3</id>
+            <brand>Mercedes-Benz</brand>
+            <model>S-Class</model>
+            <year>2020</year>
+        </Car>
+        <startDate>2024-11-30</startDate>
+        <endDate>2024-12-06</endDate>
+    </Reservation>
+    <Reservation id="3">
+        <Car>
+            <id>3</id>
+            <brand>Mercedes-Benz</brand>
+            <model>S-Class</model>
+            <year>2020</year>
+        </Car>
+        <startDate>2024-12-03</startDate>
+        <endDate>2024-12-10</endDate>
+    </Reservation>
+    <Reservation id="5">
+        <Car>
+            <id>1</id>
+            <brand>Mercedes-Benz</brand>
+            <model>C-Class</model>
+            <year>2022</year>
+        </Car>
+        <startDate>2024-11-11</startDate>
+        <endDate>2024-12-12</endDate>
+    </Reservation>
+    <Reservation id="6">
+        <Car>
+            <id>2</id>
+            <brand>Mercedes-Benz</brand>
+            <model>E-Class</model>
+            <year>2021</year>
+        </Car>
+        <startDate>2024-12-12</startDate>
+        <endDate>2024-12-24</endDate>
+    </Reservation>
+</reservations>

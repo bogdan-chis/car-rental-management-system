@@ -1,0 +1,61 @@
+[ {
+  "id" : 0,
+  "car" : {
+    "id" : 0,
+    "brand" : "Jaguar",
+    "model" : "X-Type",
+    "year" : 2009
+  },
+  "startDate" : [ 2024, 11, 6 ],
+  "endDate" : [ 2024, 11, 7 ]
+}, {
+  "id" : 1,
+  "car" : {
+    "id" : 0,
+    "brand" : "Jaguar",
+    "model" : "X-Type",
+    "year" : 2009
+  },
+  "startDate" : [ 2024, 11, 8 ],
+  "endDate" : [ 2024, 11, 9 ]
+}, {
+  "id" : 2,
+  "car" : {
+    "id" : 1,
+    "brand" : "Jaguar",
+    "model" : "E-Type",
+    "year" : 1975
+  },
+  "startDate" : [ 2024, 11, 11 ],
+  "endDate" : [ 2024, 11, 15 ]
+}, {
+  "id" : 3,
+  "car" : {
+    "id" : 3,
+    "brand" : "Jaguar",
+    "model" : "I-Pace",
+    "year" : 2018
+  },
+  "startDate" : [ 2024, 11, 13 ],
+  "endDate" : [ 2024, 12, 13 ]
+}, {
+  "id" : 4,
+  "car" : {
+    "id" : 1,
+    "brand" : "Jaguar",
+    "model" : "E-Type",
+    "year" : 1975
+  },
+  "startDate" : [ 2024, 12, 21 ],
+  "endDate" : [ 2024, 12, 28 ]
+}, {
+  "id" : 5,
+  "car" : {
+    "id" : 0,
+    "brand" : "Jaguar",
+    "model" : "X-Type",
+    "year" : 2009
+  },
+  "startDate" : [ 2024, 11, 26 ],
+  "endDate" : [ 2024, 11, 27 ]
+} ]
