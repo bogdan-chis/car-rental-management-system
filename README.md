@@ -14,8 +14,5 @@ A Java-based application designed to streamline the operations of a car rental b
 
 - **Java**: Core programming language for application development.
 - **Maven**: Build automation tool used for project management.
-- **JavaFX**: For building the user interface (if applicable).
-- **SQL**: For database management (assumed based on standard practices).
-
-## 📁 Project Structure
-
+- **JavaFX**: For building the user interface.
+- **SQL**: For database management.
